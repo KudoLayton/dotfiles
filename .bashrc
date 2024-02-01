@@ -26,4 +26,6 @@ unset rc
 
 export FIREFOX_RUNTIME=/usr/bin/firefox
 export EDITOR=/usr/bin/nvim
+export LD_LIBRARY_PATH=/lib:/lib64:/usr/lib:/usr/lib64
+
 alias config='/usr/bin/git --git-dir=$HOME/.dotfile_git --work-tree=$HOME'
