@@ -1,0 +1,9 @@
+[font]
+size = 12
+
+[font.normal]
+family = "D2CodingNerd"
+
+[window]
+blur = true
+opacity = 0.8
